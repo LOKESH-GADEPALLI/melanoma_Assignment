@@ -35,7 +35,7 @@
 - Third  model we analyzed data/sample distribution of all classes and found that there a class imbalance in dataset. By using an augmenter library, we have balanced our 
   dataset. After balancing the data, we trained our model_v3 and found that there is a significant improvement in training and validation accuracy.But the model prediction 
   is not as expected. 
-- Fourth CNN model(train accuracy=87, validation accuracy=84.5) was built after applying augmentation(to overcome class imbalance in the training dataset)
+- Fourth CNN model(train accuracy=88, validation accuracy=84.5) was built after applying augmentation(to overcome class imbalance in the training dataset)
 - Finally choosing the best model out of three based on train and validation accuracies, Predict and evaluate Test images accuracy and loss.
 
 ## Contact
